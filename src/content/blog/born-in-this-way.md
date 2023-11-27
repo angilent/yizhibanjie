@@ -12,6 +12,8 @@ description: 记录一下一只半解博客的创建过程，astro 框架和 Ast
 
 折腾了一天，终于可以写字了。
 
+## Table of contents
+
 ## 起因
 
 上周六的 MicroBlocks 分享会上，种瓜说挺期待我的 blog。这对我是很大的鼓励与鞭策。怎么说也是写过好几次 blog 的老同志了。这次也是一冲动就又开始要写字了。

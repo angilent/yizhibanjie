@@ -4,7 +4,7 @@ export const SITE: Site = {
   website: "https://angilent.github.io/", // replace this with your deployed domain
   author: "邵悦",
   desc: "欢迎来到悦的兔子洞",
-  title: "一只半解",
+  title: "一只半解 🦀",
   ogImage: "astropaper-og.jpg", //头图？
   lightAndDarkMode: true,
   postPerPage: 3,
