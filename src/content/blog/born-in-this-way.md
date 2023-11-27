@@ -22,6 +22,7 @@ description: 记录一下博客的创建过程
 
 经过半天的学习，找到了 AstroPaper 这个 theme。https://github.com/satnaing/astro-paper#readme。 astro 网站的文档写的很清晰。而且文档的组织方式也是一个非常适合自学的框架，集合了阅读，回顾，检查等功能。我很喜欢。包括 AstroPaper 这个 theme 的文档也很清晰。中间最耗时间的就是npm 安装包了。哎～ 目前的文字是在 vs code 里编辑 MD 文档。网站基本的配置按照说明改改就能开张了。
 后续要做的，应该是发布到一个免费空间。不确定今天能不能搞定。
+在测试 gitpages 了
 发现字有点小，查了一圈没找到如何改字体大小。感觉现在 css 已经发展成了一门庞大的专业学科了。
 
 ## 希望
