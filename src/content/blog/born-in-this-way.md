@@ -7,7 +7,7 @@ featured: false
 draft: false
 tags:
   - 随笔
-description: 记录一下博客的创建过程
+description: 记录一下一只半解博客的创建过程，astro 框架和 AstroPaper theme。
 ---
 
 折腾了一天，终于可以写字了。
