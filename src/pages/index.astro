@@ -48,7 +48,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
         可以看看我写的，想了解我可以查看
         <LinkButton
           className="hover:text-skin-accent underline underline-offset-4 decoration-dashed"
-          href="/about"
+          href="/yizhibanjie/about"
         >
           读我
         </LinkButton> 。
@@ -76,7 +76,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
               ({ data }, index) =>
                 index < 4 && (
                   <Card
-                    href={`/posts/${slugify(data)}`}
+                    href={`/yizhibanjie/posts/${slugify(data)}`}
                     frontmatter={data}
                     secHeading={false}
                   />
@@ -85,7 +85,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
         }
       </ul>
       <div class="all-posts-btn-wrapper">
-        <LinkButton href="/posts">
+        <LinkButton href="/yizhibanjie/posts">
           All Posts 足集  
           <svg xmlns="http://www.w3.org/2000/svg"
             ><path
